@@ -15,7 +15,7 @@ Mentor On Demand with Spring Boot, JPA & MongoDB in the Backend and Angular in t
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/ranjit-singh/mentor-on-demand-app.git
+git clone https://github.com/nagsenlkamble/finalAssessment.git
 ```
 
 **2. Build and run the backend app using maven**
